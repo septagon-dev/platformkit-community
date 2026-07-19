@@ -1,27 +1,28 @@
-        # Repository Charter
+# Repository Charter
 
-        ## Mission
+## Mission
 
-        Provide the public discussion surface for platformkit users, launch feedback, announcement threads, and roadmap Q&A.
+Provide the public discussion surface for platformkit users, launch feedback,
+announcement threads, and roadmap Q&A.
 
-        ## Owns
+## Owns
 
-        - GitHub Discussions categories
+- GitHub Discussions categories
 - announcement threads
 - community-facing README and participation guidance
 
-        ## Does Not Own
+## Does Not Own
 
-        - product source code
+- product source code
 - release automation
 - private operational material
 
-        ## Dependencies
+## Dependencies
 
-        - `platformkit`
+- `platformkit`
 
-        ## Release Posture
+## Release Posture
 
-        - Visibility: `public`
-        - Bootstrap mode: `git`
-        - Clean-history rule: no direct history port from `comumcowork`
+- Visibility: `public`
+- Bootstrap mode: `git`
+- Clean-history rule: no direct history port from `comumcowork`
